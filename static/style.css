@@ -1,0 +1,35 @@
+body {
+  background-color: #f8f9fa;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2, h4 {
+  color: #343a40;
+  margin-bottom: 20px;
+}
+
+img {
+  border: 4px solid #343a40;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.table {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.table th, .table td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.table thead th {
+  background-color: #343a40;
+  color: white;
+}
+
+.container {
+  max-width: 960px;
+}
