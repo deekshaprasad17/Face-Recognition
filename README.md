@@ -27,8 +27,10 @@ A real-time face recognition system that marks attendance automatically using li
 
 ## Attendance Output
 
--Name,Time
--Deeks,2025-07-11 10:15:32
--Roro,2025-07-11 10:18:45
+- Name,Time
+- Deeks,2025-07-11 10:15:32
+- Roro,2025-07-11 10:18:45
+
+---
 
 
